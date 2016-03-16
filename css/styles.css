@@ -21,3 +21,17 @@ ul {
   color: green;
   font-weight: bold;
 }
+
+h2.intro {
+  font-weight:bold;
+  font-style: italic;
+  text-align: left;
+}
+
+p.intro {
+  text-align: left;
+}
+
+img.intro {
+  width: 600px;
+}
