@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-color: #7ec0ee;
+  text-align: center;
+}
+ul {
+  position: relative;
+  text-align: left;
+  left: 400px;
+}
+
+.best {
+  color: green;
+  font-weight: bold;
+}
