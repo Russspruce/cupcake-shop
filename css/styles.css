@@ -36,13 +36,18 @@ ul {
   text-align: left;
   color: blue;
   width: 80%;
+  margin-bottom: 100px;
+  background-color: orange;
 }
 
 .blog-post-low {
   text-align: right;
-  color: red;
+  color: yellow;
   width: 80%;
   margin-left: 20%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: blue;
 }
 
 .about{
@@ -70,4 +75,9 @@ ul {
 
 .detail {
   font-style: italic;
+}
+
+.pics {
+  padding: 20px;
+  width: 400px;
 }
