@@ -50,3 +50,24 @@ ul {
   margin-left: 20%;
   margin-right: 20%;
 }
+
+.resume-stuff {
+  text-align: left;
+  font-family: helvetica;
+  margin-right: 20%;
+}
+
+.skills {
+
+  text-align: left;
+  position: relative;
+  left: 0px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.detail {
+  font-style: italic;
+}
